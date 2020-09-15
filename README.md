@@ -1,6 +1,6 @@
 ## Github exam:
 
-Please fork the project and finish the below requirements.  The requirements should be committed on a feature branch called “feature/Exam_ProductsDropdown” and forward the project to john.chen@nogle.com.
+Please fork the project and finish the below requirements.  The requirements should be committed on a feature branch called “feature/Exam_ProductsDropdown”.  When you finish, please forward the project url to john.chen@nogle.com.
 
 ### Requirements:
 
