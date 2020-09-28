@@ -11,5 +11,9 @@ Please use the product data of initialState in “product” reducer as the inpu
 1. When scrolling the dropdown, the scrollbar won’t show,
 1. When clicking the product in the dropdown, the “color” element should display the color of the product.
 
+The below is an example:
+
+![Example](https://github.com/jchen-nogle/exam-react-redux/blob/master/example.gif)
+
 ### Optional:
 Refactor the codes.
